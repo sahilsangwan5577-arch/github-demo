@@ -1,2 +1,3 @@
 # github-demo
-this is my first github project
+This is my first Git Repositry.
+Author - Sahil Sangwan
